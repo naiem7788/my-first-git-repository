@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/naiem7788/my-first-git-repository.git
+git push -u origin main
